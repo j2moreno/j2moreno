@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Leonardo Moreno 
+---------------------------------------
+
+### Education:
+- MS Information Technology
+- BS Bioinformatics
+
+
+
 <!--
 **j2moreno/j2moreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
