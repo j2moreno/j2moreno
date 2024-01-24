@@ -2,7 +2,7 @@
 - MS Information Technology
 - BS Bioinformatics
 
-As a Bioinformatician with more than five years of experience, I specialize in product development, pipeline implementation, and analyzing large genomic datasets. My expertise encompasses Python, R, Bash, and Linux-based systems, along with proficiency in High-Performance Computing (HPC) and cloud computing platforms like AWS and Google Cloud. I am passionate about creating robust, scalable, and reproducible workflows. Delving into technical details, I am committed to addressing the challenges in bioinformatics through the application of computer science principles.
+As a Bioinformatician, I specialize in product development, pipeline implementation, and analyzing large genomic datasets. My expertise encompasses Python, R, Bash, and Linux-based systems, along with proficiency in High-Performance Computing (HPC) and cloud computing platforms like AWS and Google Cloud. I am passionate about creating robust, scalable, and reproducible workflows. Delving into technical details, I am committed to addressing the challenges in bioinformatics through the application of computer science principles.
 
 <!--
 **j2moreno/j2moreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
