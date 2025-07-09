@@ -2,13 +2,11 @@
 - MS Information Technology
 - BS Bioinformatics
 
-My name is Leonardo Moreno, a bioinformatician and software developer with extensive experience in product development, pipeline implementation, and the analysis of large genomic datasets. My technical proficiency spans a variety of programming languages, including Python, R, Java, Django, Flask, HTML/CSS, JavaScript, SQL, and C++. I am well-versed in Linux-based systems, Bash scripting, and skilled in High-Performance Computing (HPC) as well as cloud computing platforms such as AWS and Google Cloud.
+My name is Leonardo Moreno, a software developer with extensive experience in product development, pipeline implementation, and the analysis of large genomic datasets. My technical proficiency spans a variety of programming languages, including Python, R, Java, Django, Flask, HTML/CSS, JavaScript, SQL, and C++. I am well-versed in Linux-based systems, Bash scripting, and skilled in High-Performance Computing (HPC) as well as cloud computing platforms such as AWS and Google Cloud.
 
-I am passionate about creating robust, scalable, and reproducible workflows and am dedicated to solving complex bioinformatics challenges through the application of computer science principles. 
+I am currently seeking opportunities that allow me to utilize my skills in full stack engineering, data science, or AI, particularly roles that integrate these disciplines.
 
-I am currently seeking opportunities that allow me to utilize my skills in bioinformatics, data science, or AI, particularly roles that integrate these disciplines.
-
-I also bring additional skills including AI/ML, LLMs, Docker, Kubernetes, Nextflow, Snakemake, WDL, API development, and CI/CD. I am committed to continuous learning and applying my deep knowledge to innovate and drive progress in the field of bioinformatics.
+I also bring additional skills including AI/ML, LLMs, Docker, Kubernetes, Nextflow, Snakemake, WDL, API development, and CI/CD.
 
 <!--
 **j2moreno/j2moreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
