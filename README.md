@@ -8,7 +8,7 @@ I am currently seeking opportunities that allow me to utilize my skills in full 
 
 I also bring additional skills including AI/ML, LLMs, Docker, Kubernetes, Nextflow, Snakemake, WDL, API development, and CI/CD.
 
-Creator of [leasai.io](leasai.io)
+Creator of [leasai.io](https://leasai.io)
 
 <!--
 **j2moreno/j2moreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
