@@ -2,13 +2,16 @@
 - MS Information Technology
 - BS Bioinformatics
 
-My name is Leonardo Moreno, a software developer with extensive experience in product development, pipeline implementation, and the analysis of large genomic datasets. My technical proficiency spans a variety of programming languages, including Python, R, Java, Django, Flask, HTML/CSS, JavaScript, SQL, and C++. I am well-versed in Linux-based systems, Bash scripting, and skilled in High-Performance Computing (HPC) as well as cloud computing platforms such as AWS and Google Cloud.
+My name is Leonardo Moreno, and I am the guy you hire to get things done. I can create end to end solutions and work across the entire tech stack;. 
 
-I am currently seeking opportunities that allow me to utilize my skills in full stack engineering, data science, or AI, particularly roles that integrate these disciplines.
+Skills: 
+- Omics Analysis: WGS, RNAseq, scRNAseq, CHiP-seq, ATAC-seq, microbiome, GWAS, imputation
+- Languages: Python, R, Bash, Java, C/C++, SQL, HTML/CSS, Javascript, CUDA
+- Machine Learning/AI: pytorch, tensorflow, scikit-learn, hugging face, AWS Sagemaker, LLMs, LangChain
+- Tools & Technologies: Git, Docker, Kubernetes, Terraform, Databricks, Nextflow, Snakemake, WDL, Django, Flask, CI/CD, FastAPI
+- Cloud Computing: AWS, GCP, Azure
+- Methodologies: Agile
 
-I also bring additional skills including AI/ML, LLMs, Docker, Kubernetes, Nextflow, Snakemake, WDL, API development, and CI/CD.
-
-Creator of [leasai.io](https://leasai.io)
 
 <!--
 **j2moreno/j2moreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
