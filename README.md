@@ -1,5 +1,5 @@
 ### Education:
-- MS Information Technology
+- MS Computer Science 
 - BS Bioinformatics
 
 My name is Leonardo Moreno, and I am the guy you hire to get things done. I can create end to end solutions and work across the entire tech stack.
