@@ -2,7 +2,7 @@
 - MS Information Technology
 - BS Bioinformatics
 
-My name is Leonardo Moreno, and I am the guy you hire to get things done. I can create end to end solutions and work across the entire tech stack;. 
+My name is Leonardo Moreno, and I am the guy you hire to get things done. I can create end to end solutions and work across the entire tech stack.
 
 Skills: 
 - Omics Analysis: WGS, RNAseq, scRNAseq, CHiP-seq, ATAC-seq, microbiome, GWAS, imputation
