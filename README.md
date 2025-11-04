@@ -5,12 +5,12 @@
 My name is Leonardo Moreno, and I am the guy you hire to get things done. I can create end to end solutions and work across the entire tech stack.
 
 Skills: 
-- Omics Analysis: WGS, RNAseq, scRNAseq, CHiP-seq, ATAC-seq, microbiome, GWAS, imputation
-- Languages: Python, R, Bash, Java, C/C++, SQL, HTML/CSS, Javascript, CUDA
-- Machine Learning/AI: pytorch, tensorflow, scikit-learn, hugging face, AWS Sagemaker, LLMs, LangChain
-- Tools & Technologies: Git, Docker, Kubernetes, Terraform, Databricks, Nextflow, Snakemake, WDL, Django, Flask, CI/CD, FastAPI
-- Cloud Computing: AWS, GCP, Azure
-- Methodologies: Agile
+- **Omics Analysis:** WGS, RNAseq, scRNAseq, CHiP-seq, ATAC-seq, microbiome, GWAS, imputation
+- **Languages:** Python, R, Bash, Java, C/C++, SQL, HTML/CSS, Javascript, CUDA
+- **Machine Learning/AI:** pytorch, tensorflow, scikit-learn, hugging face, AWS Sagemaker, LLMs, LangChain
+- **Tools & Technologies:** Git, Docker, Kubernetes, Terraform, Databricks, Nextflow, Snakemake, WDL, Django, Flask, CI/CD, FastAPI
+- **Cloud Computing:** AWS, GCP, Azure
+- **Methodologies:** Agile
 
 
 <!--
